@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Mypace Simple Wrapper Block
+ * Plugin Name:       mypace Simple Wrapper Block
  * Description:       It is just a block that wraps blocks with a div element. If you are struggling with CSS for core group blocks, this plugin is for you.
  * Requires at least: 6.1
  * Requires PHP:      7.0
