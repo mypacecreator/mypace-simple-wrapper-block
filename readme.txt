@@ -6,14 +6,11 @@ Stable tag:        0.1.1
 License:           GPL-2.0-or-later
 License URI:       https://www.gnu.org/licenses/gpl-2.0.html
 
-It is just a block that wraps blocks with a div element. If you are struggling with CSS for core group blocks, this plugin is for you.
+It is just a block that wraps blocks with a div element. 
 
 == Description ==
 
-This is the long description. No limit, and you can use Markdown (as well as in the following sections).
-
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+It is just a block that wraps blocks with a div element. If you are struggling with CSS for core group blocks, this plugin is for you.
 
 == Installation ==
 
