@@ -1,0 +1,17 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "mypace-simple-wrapper-block/mypace-simple-wrapper-block",
+  "version": "0.1.1",
+  "title": "Mypace Simple Wrapper Block",
+  "category": "design",
+  "icon": "layout",
+  "description": "It is just a block that wraps blocks with a div element. If you are struggling with CSS for core group blocks, this plugin is for you.",
+  "supports": {
+    "html": false
+  },
+  "textdomain": "mypace-simple-wrapper-block",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
